@@ -13,6 +13,8 @@
 
 项目仍在更新中，学习意义大于项目本身~
 
+运行请使用：`streamlit run app.py`  或者 通过test_graph.ipynb运行
+
 demo演示：
 
 - 计划：
